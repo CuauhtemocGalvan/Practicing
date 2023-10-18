@@ -1,6 +1,7 @@
 use Facturas
 
-
+Insert into values
+('Procesador',190.75,'I5 6000',10,'Intel','10/05/2020',8.3)
 /* insert into Producto
 (nombre,precio,modelo,cantidad,marca,fabricacion,valoracion)
 values
@@ -8,7 +9,7 @@ values
 
 insert into Producto
 values
-('Tarjeta gráfica',110.99,'Óptima',4,'Nvidia','29-01-2020 12:30',6.9)
+('Tarjeta grï¿½fica',110.99,'ï¿½ptima',4,'Nvidia','29-01-2020 12:30',6.9)
 
 insert into Producto
 values
@@ -57,19 +58,19 @@ values
 
 insert into Producto
 values
-('Tarjeta Gráfica',130.45,'Extreme 1.0',6,'AMD','1/7/2018',5.4)
+('Tarjeta Grï¿½fica',130.45,'Extreme 1.0',6,'AMD','1/7/2018',5.4)
 
 insert into Producto
 values
-('Tarjeta Gráfica',310.80,'Extreme 2.0',6,'AMD','2/12/2019',6.4)
+('Tarjeta Grï¿½fica',310.80,'Extreme 2.0',6,'AMD','2/12/2019',6.4)
 
 insert into Producto
 values
-('Tarjeta Gráfica',530.99,'Extreme 3.0 Gaming',6,'AMD','01/13/2020',8.6)
+('Tarjeta Grï¿½fica',530.99,'Extreme 3.0 Gaming',6,'AMD','01/13/2020',8.6)
 
 insert into Producto
 values
-('Tarjeta Gráfica',615.25,'Extreme 4.0 Gaming WoW',4,'AMD','11/04/2020',9.8)
+('Tarjeta Grï¿½fica',615.25,'Extreme 4.0 Gaming WoW',4,'AMD','11/04/2020',9.8)
 
 insert into Producto
 values
@@ -126,11 +127,11 @@ values
 insert into Producto
 (nombre,precio,cantidad,marca)
 values
-('Ratón',5.30,40,'ElGato')
+('Ratï¿½n',5.30,40,'ElGato')
 
 insert into Producto
 values
-('Ratón',49.90,'Gaming 2.0',10,'Logitech','07/02/2015',8.3)
+('Ratï¿½n',49.90,'Gaming 2.0',10,'Logitech','07/02/2015',8.3)
 
 insert into Producto
 values
@@ -186,19 +187,19 @@ values
 
 insert into Producto
 values
-('Televisión',99.99,'22A14',1,'Samsung','11/04/2019',5.9)
+('Televisiï¿½n',99.99,'22A14',1,'Samsung','11/04/2019',5.9)
 
 insert into Producto
 values
-('Televisión',399.99,'47EDS',1,'Samsung','11/04/2020',7.5)
+('Televisiï¿½n',399.99,'47EDS',1,'Samsung','11/04/2020',7.5)
 
 insert into Producto
 values
-('Televisión',2999.89,'55Tx-300',1,'LG','11/05/2020',9.2)
+('Televisiï¿½n',2999.89,'55Tx-300',1,'LG','11/05/2020',9.2)
 
 insert into Producto
 values
-('Televisión',900.05,'47D',1,'LG','11/06/2020',7.2)
+('Televisiï¿½n',900.05,'47D',1,'LG','11/06/2020',7.2)
 
 insert into Producto
 (nombre,precio,cantidad)
