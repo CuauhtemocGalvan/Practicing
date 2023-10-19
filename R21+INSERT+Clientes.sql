@@ -92,7 +92,7 @@ insert into Cliente
 values
 ('999900000Y','Miguel ramirez','miguel ramirez@gmail.com',45,'13,Rue del Percebe')
 
-select * from Cliente
+select * from Cliente top 100
 
 select 'Para los que no lo conozcais, buscad "13, Rue del Percebe" en Google'
 
