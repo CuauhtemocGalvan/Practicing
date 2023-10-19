@@ -10,7 +10,7 @@ insert into Encargo
 values
 (1,1,1,0)
 
-select * from Encargo
+select * from Encargo limit 100
 
 
 
@@ -47,7 +47,7 @@ values
 ('6/03/2020','888888888E')
 
 
------ Encargos a Almacén -------
+----- Encargos a Almacï¿½n -------
 insert into Encargo
 values
 (1,32,2,0)

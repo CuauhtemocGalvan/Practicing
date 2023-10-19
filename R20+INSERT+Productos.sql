@@ -1,5 +1,5 @@
 use Facturas
-
+-- Este es un comentario
 Insert into values
 ('Procesador',190.75,'I5 6000',10,'Intel','10/05/2020',8.3)
 /* insert into Producto
